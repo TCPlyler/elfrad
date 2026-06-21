@@ -14,6 +14,8 @@ The original website was at *elfradgroup.com*. We are rebuilding and open-sourci
 ## The Antenna System  
 *The Earth is a Major Component*
 
+![Antenna Diagram](Ant.gif)
+
 Charlie's antenna was *not* a sky antenna. It was a buried earth dipole system:
 
 - Short copper wires buried in a small section of his 4.5-acre property  
@@ -24,7 +26,8 @@ This ground-coupled approach is what gave the system its sensitivity to subtle U
 
 ## The Receiver & Schematics
 
-Your scanned schematics, circuit boards, and diagrams are uploaded in this repository.  
+![Main ULF Receiver Circuit](ina114.gif)
+![Power Supply Schematic](pwrsup.gif)
 Browse the files above to view them.
 
 ## Vision for the Future
