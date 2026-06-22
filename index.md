@@ -41,9 +41,9 @@ This research has potential far beyond Earth:
 
 ## Funding & Collaboration
 
-We are actively looking for interested investors and partners to help rebuild, modernize, and test the primary ELFRAD operating system
+We are actively looking for interested investors and partners to help rebuild, modernize, and test the primary ELFRAD operating system.
 
-If you are interested in supporting this project, please reach out 
+If you are interested in supporting this project, please reach out. 
 
 
 ## Archive Note
