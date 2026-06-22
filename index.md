@@ -28,7 +28,7 @@ This ground-coupled approach is what gave the system its sensitivity to subtle U
 
 ![Main ULF Receiver Circuit](ina114.gif)
 ![Power Supply Schematic](pwrsup.gif)
-Browse the files above to view them.
+
 
 ## Vision for the Future
 
@@ -38,7 +38,13 @@ This research has potential far beyond Earth:
 - Opening a new scientific field of *Planetary Electromagnetic Seismology*  
 - Seismic and gravity wave monitoring for *Mars colonization* and future space habitats  
 
-## Get Involved
 
-This is fully open source and public domain.  
-Download the files, study the designs, rebuild the system, and help carry the work
+## Funding & Collaboration
+
+We are actively looking for interested investors and partners to help rebuild, modernize, and test the primary ELFRAD operating system
+
+If you are interested in supporting this project, please reach out 
+
+**Contact:** museterina@gmail.com
+
+(more coming soon)
