@@ -45,6 +45,12 @@ We are actively looking for interested investors and partners to help rebuild, m
 
 If you are interested in supporting this project, please reach out 
 
-**Contact:** museterina@gmail.com
 
-(more coming soon)
+## Archive Note
+
+The full original website content from elfradgroup.com (including all archived pages) will be available on the future full ELFRAD website. This GitHub site currently serves as the basic landing page and hosts the scanned schematics and key diagrams. 
+
+
+## Contact
+
+**Email:** museterina@gmail.com
